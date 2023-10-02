@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:mymysql://localhost:8080/phoneshop
-    username: phoneshop_user
-    password:phoneshop_user_123
-  jpa:
-    hibernate:
-      ddl-auto: update
